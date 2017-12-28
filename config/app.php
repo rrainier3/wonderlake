@@ -121,7 +121,9 @@ return [
     |
     |
 
-    'log' => env('APP_LOG', 'single'), */
+    'log' => env('APP_LOG', 'single'), 
+
+    */
 
     'log' => 'errorlog',
 
